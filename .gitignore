@@ -1,5 +1,5 @@
 .idea
 *.sqlite3
-.historicalplaces_venv
+historicalplaces_venv
 *pyc
 .env
